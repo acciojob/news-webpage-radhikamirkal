@@ -41,12 +41,13 @@ body{
 }
 
 .pictorial-news-section{
-    background: white;
+     background: white;
     width: 200px;
     padding: 20px;
     border-radius: 10px;
-    text-align: center;
-    display: block;
+
+    direction: ltr;
+    text-align: center !important;
 }
 
 .pictorial-news-section img{
